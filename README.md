@@ -15,9 +15,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Leetcode)</b>
-  - [Practicing  DS & Algos in Python](https://github.com/YashCGandhi/InterviewPrep/)
+  - [Practicing  DS & Algos.](https://github.com/YashCGandhi/InterviewPrep/)
 - <b>"Aarogya Patrika" (Android App)</b>
-  - [A Survey App for Health Workers.](https://github.com/YashCGandhi/AarogyaPatrika/) 
+  - [A Survey App for Accredited Social Health Workers.](https://github.com/YashCGandhi/AarogyaPatrika/) 
 - <b>Twitter Data Analysis</b>
   - [Application to analyze tweets regarding FIFA world cup 2022](https://github.com/YashCGandhi/TwitterDataAnalysis/) 
 - <b>Python</b>
