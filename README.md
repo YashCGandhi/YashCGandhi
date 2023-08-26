@@ -14,8 +14,6 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (Leetcode)</b>
-  - [Practicing  DS & Algos.](https://github.com/YashCGandhi/InterviewPrep/)
 - <b>"Aarogya Patrika" (Android App)</b>
   - [A Survey App for Accredited Social Health Workers.](https://github.com/YashCGandhi/AarogyaPatrika/) 
 - <b>Twitter Data Analysis</b>
@@ -23,7 +21,8 @@
 - <b>Python</b>
     - [Crop Health Monitoring System](https://github.com/YashCGandhi/Crop-Monitoring-System)
     - [Salary Prediction using decision tree regression](https://github.com/YashCGandhi/Salary-Prediction-using-Decision-Tree-Regression/)
-  
+- <b>Data Structures and Algorithms Practice (Leetcode)</b>
+  - [Practicing  DS & Algos.](https://github.com/YashCGandhi/InterviewPrep/)  
 
 <h2> 🤳 Connect with me:</h2>
 
