@@ -18,7 +18,7 @@
   - [A Survey App for Accredited Social Health Workers.](https://github.com/YashCGandhi/AarogyaPatrika/) 
 - <b>Twitter Data Analysis</b>
   - [Application to analyze tweets regarding FIFA world cup 2022](https://github.com/YashCGandhi/TwitterDataAnalysis/) 
-- <b>Python</b>
+- <b>Python | Data Analysis | Machine Learning</b>
     - [Crop Health Monitoring System](https://github.com/YashCGandhi/Crop-Monitoring-System)
     - [Salary Prediction using decision tree regression](https://github.com/YashCGandhi/Salary-Prediction-using-Decision-Tree-Regression/)
 - <b>Data Structures and Algorithms Practice (Leetcode)</b>
