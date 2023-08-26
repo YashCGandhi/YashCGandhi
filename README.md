@@ -6,6 +6,11 @@
 - <b>Software Engineer, Cloud Infrastructure, <a href="https://spillbox.io/"> Spillbox Inc.</a> , March 2023 - Present </b>
   - Developed Golang-based cloud infrastructure automation software using Terraform to improve deployment speed and efficiency.
   - Played a key role in developing scalable containers and cloud-scaled-out databases and file servers to support design automation.
+  - Deployed a containerized solution using Docker and Kubernetes, ensuring scalability and high availability of the application.
+  - Demonstrated expertise in working with AWS and Azure, to architect robust and reliable infrastructure solutions that met stringent
+performance and security requirements.
+  - Driving the development of a robust cloud orchestration software solution that seamlessly connects servers and shared file systems to job machines, streamlining operations and optimizing workflow efficiency.
+  
 - <b>Software Engineer Intern, Full Stack, <a href="https://www.synopsys.com/"> Synopsys Inc.</a> , June 2022 - September 2022 </b>
   - Developed a responsive dashboard website for a DevOps application, enabling efficient project management and providing employees with an intuitive interface to view, add, and update project metadata.
   - Implemented advanced functionalities, including persistent pages, filtering, and shareable URLs, to facilitate seamless collaboration with cross-functional teams.
