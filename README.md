@@ -18,10 +18,11 @@ performance and security requirements.
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - <b>ResVerify</b>
-  - [A blockchain-based platform that verifies and authenticates resume](https://github.com/YashCGandhi/ResVerify-Frontend) 
+  - [A blockchain-based platform that verifies and authenticates resumes](https://github.com/YashCGandhi/ResVerify-Frontend) 
 - <b>Twitter Data Analysis</b>
-  - [Application to analyze tweets regarding FIFA world cup 2022](https://github.com/YashCGandhi/TwitterDataAnalysis/) 
+  - [Application to analyze tweets regarding FIFA world cup 2022](https://github.com/YashCGandhi/TwitterDataAnalysis/)
 - <b>Python | Data Analysis | Machine Learning</b>
     - [Crop Health Monitoring System](https://github.com/YashCGandhi/Crop-Monitoring-System)
     - [Salary Prediction using decision tree regression](https://github.com/YashCGandhi/Salary-Prediction-using-Decision-Tree-Regression/)
