@@ -4,17 +4,17 @@
 <h2>👨‍💻 Professional Experience:</h2>
 
 - <b>Software Engineer, Cloud Infrastructure, <a href="https://spillbox.io/"> Spillbox Inc.</a> , March 2023 - Present </b>
-  - Developed Golang-based cloud infrastructure automation software using Terraform to improve deployment speed and efficiency.
-  - Played a key role in developing scalable containers and cloud-scaled-out databases and file servers to support design automation.
-  - Deployed a containerized solution using Docker and Kubernetes, ensuring scalability and high availability of the application.
-  - Demonstrated expertise in working with AWS and Azure, to architect robust and reliable infrastructure solutions that met stringent
-performance and security requirements.
+  - Leveraged Go, Java and Terraform to streamline resource provisioning, leading to a 40% reduction in cloud deployment time for EDA simulations.
+  - Achieved and sustained 99.93% availability during peak EDA bursts by skillfully implementing dynamic resource allocation and intelligent load balancing across AWS and Azure instances.
+  - Optimized application deployment and scalability by strategically utilizing AWS services including EC2 for compute, RDS for databases, and S3 for secure storage.
+  - Ensured horizontal scalability and high availability of cloud bursting application for EDA workloads through containerized solution deployment using Docker and Kubernetes.
   - Driving the development of a robust cloud orchestration software solution that seamlessly connects servers and shared file systems to job machines, streamlining operations and optimizing workflow efficiency.
   
 - <b>Software Engineer Intern, Full Stack, <a href="https://www.synopsys.com/"> Synopsys Inc.</a> , June 2022 - September 2022 </b>
-  - Developed a responsive dashboard website for a DevOps application, enabling efficient project management and providing employees with an intuitive interface to view, add, and update project metadata.
-  - Implemented advanced functionalities, including persistent pages, filtering, and shareable URLs, to facilitate seamless collaboration with cross-functional teams.
-  - Leveraged skills in React, Redux, and Bootstrap to create a visually appealing and intuitive front-end, and utilized Node.js and Express.js to build robust REST APIs and fetch data from a MongoDB database with over 1 million entries.
+  - Designed and developed an interactive dashboard website that streamlined project management processes, resulting in a remarkable 20% increase in project delivery efficiency.
+  - Efficiently managed project data in a MongoDB database, accommodating more than 1 million entries and achieving 15% faster data retrieval times.
+  - Increased user engagement by 25% through dynamic filtering and shareable URLs, leveraging the power of JavaScript, React.js, and Redux.
+  - Leveraged Node.js and implemented server-side pagination, to achieve a reduction of 2 seconds in page load times, leading to a significant 15% surge in user satisfaction.
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
