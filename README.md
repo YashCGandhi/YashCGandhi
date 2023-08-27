@@ -19,16 +19,15 @@ performance and security requirements.
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>"Aarogya Patrika" (Android App)</b>
-  - [A Survey App for Accredited Social Health Workers.](https://github.com/YashCGandhi/AarogyaPatrika/) 
 - <b>Twitter Data Analysis</b>
   - [Application to analyze tweets regarding FIFA world cup 2022](https://github.com/YashCGandhi/TwitterDataAnalysis/) 
 - <b>Python | Data Analysis | Machine Learning</b>
     - [Crop Health Monitoring System](https://github.com/YashCGandhi/Crop-Monitoring-System)
     - [Salary Prediction using decision tree regression](https://github.com/YashCGandhi/Salary-Prediction-using-Decision-Tree-Regression/)
+- <b>Wellness Survey Platform (Android App)</b>
+  - [A Survey App for Accredited Social Health Workers.](https://github.com/YashCGandhi/AarogyaPatrika/) 
 - <b>Data Structures and Algorithms Practice (Leetcode)</b>
   - [Practicing  DS & Algos.](https://github.com/YashCGandhi/InterviewPrep/)  
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
