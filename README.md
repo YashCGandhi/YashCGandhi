@@ -4,7 +4,7 @@
 <h2>👨‍💻 Professional Experience:</h2>
 
 - <b>Software Engineer, Cloud Infrastructure, <a href="https://spillbox.io/"> Spillbox Inc.</a> , March 2023 - Present </b>
-  - Leveraged Go, Java and Terraform to streamline resource provisioning, leading to a 40% reduction in cloud deployment time for EDA simulations.
+  - Leveraged Go, Java and Terraform to streamline resource provisioning, leading to a 20% reduction in cloud deployment time for EDA simulations.
   - Achieved and sustained 99.93% availability during peak EDA bursts by skillfully implementing dynamic resource allocation and intelligent load balancing across AWS and Azure instances.
   - Optimized application deployment and scalability by strategically utilizing AWS services including EC2 for compute, RDS for databases, and S3 for secure storage.
   - Ensured horizontal scalability and high availability of cloud bursting application for EDA workloads through containerized solution deployment using Docker and Kubernetes.
